@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\CAMT\\Documents\\GitHub\\Lab-Activity\\Lab_WS9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08A4D903-5D9D-49AC-9BE6-062EE0A4318F}|Lab_WS9\\Lab_WS9.csproj|c:\\users\\camt\\documents\\github\\lab-activity\\lab_ws9\\lab_ws9\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A4D903-5D9D-49AC-9BE6-062EE0A4318F}|Lab_WS9\\Lab_WS9.csproj|solutionrelative:lab_ws9\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08A4D903-5D9D-49AC-9BE6-062EE0A4318F}|Lab_WS9\\Lab_WS9.csproj|c:\\users\\camt\\documents\\github\\lab-activity\\lab_ws9\\lab_ws9\\content\\content.mgcb||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{08A4D903-5D9D-49AC-9BE6-062EE0A4318F}|Lab_WS9\\Lab_WS9.csproj|solutionrelative:lab_ws9\\content\\content.mgcb||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A4D903-5D9D-49AC-9BE6-062EE0A4318F}|Lab_WS9\\Lab_WS9.csproj|c:\\users\\camt\\documents\\github\\lab-activity\\lab_ws9\\lab_ws9\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A4D903-5D9D-49AC-9BE6-062EE0A4318F}|Lab_WS9\\Lab_WS9.csproj|solutionrelative:lab_ws9\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Content.mgcb",
               "DocumentMoniker": "C:\\Users\\CAMT\\Documents\\GitHub\\Lab-Activity\\Lab_WS9\\Lab_WS9\\Content\\Content.mgcb",
               "RelativeDocumentMoniker": "Lab_WS9\\Content\\Content.mgcb",
@@ -30,11 +30,12 @@
               "RelativeToolTip": "Lab_WS9\\Content\\Content.mgcb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-30T08:41:48.187Z"
+              "WhenOpened": "2025-09-30T08:41:48.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\CAMT\\Documents\\GitHub\\Lab-Activity\\Lab_WS9\\Lab_WS9\\Game1.cs",
               "RelativeDocumentMoniker": "Lab_WS9\\Game1.cs",

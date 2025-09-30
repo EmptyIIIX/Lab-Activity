@@ -10,6 +10,7 @@ namespace Lab_WS9
         private SpriteBatch _spriteBatch;
 
         // for develop
+        //for Ui
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
