@@ -9,6 +9,7 @@ namespace Lab_WS9
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         //For main
+        Texture2D idk;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -27,6 +28,7 @@ namespace Lab_WS9
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
+            idk = Content.Load<Texture2D>("Assets/a7c");
             // TODO: use this.Content to load your game content here
         }
 
@@ -45,7 +47,9 @@ namespace Lab_WS9
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
-
+            _spriteBatch.Begin();
+            _spriteBatch.Draw(idk, new Vector2(0,0), Color.White);
+            _spriteBatch.End();
             base.Draw(gameTime);
         }
     }
