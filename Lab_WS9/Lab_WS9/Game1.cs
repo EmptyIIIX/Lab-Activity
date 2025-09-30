@@ -8,7 +8,7 @@ namespace Lab_WS9
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
+        //For main
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
