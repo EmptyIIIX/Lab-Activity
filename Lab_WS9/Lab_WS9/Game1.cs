@@ -10,6 +10,7 @@ namespace Lab_WS9
         private SpriteBatch _spriteBatch;
 
         // for develop
+        //for Ui
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -19,7 +20,7 @@ namespace Lab_WS9
 
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here
+            // TODO: Add your initialization logic here 
 
             base.Initialize();
         }
